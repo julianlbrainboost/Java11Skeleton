@@ -1,39 +1,48 @@
 Name:
 
 
-1.
+1. Source code contains Java program, Bytecode contains machine language for java software
 
-2.
+2. section of code
 
-3.
+3. where the Java starts running the program
 
-4.
+4. sequence of characters
 
-5.
+5. Yeah
 
-6.
+6. Coding errors that results in the program not running like it should
 
-7.
+7. Shows lines of text
 
-8.
+8. "//" 
 
-9.
+9. "/*" is used to start the comment and "*/" is used to end it.
 
-10.
+10. Hello Mercury!
+Hello Venus!
+Hello Earth!
+Hello Mars!
+Hello Jupiter!
+Hello Saturn!
+Hello Uranus!
+Hello Neptune!
+Hello Pluto!
 
-11.
+11. 
+byte	short	int	long	float	double	char	boolean
 
-12.
+12. long
 
-13.
+13. double
 
 14.
-a.
-b.
+a. int
+b. double
 
-15.
+15.  19345
 
-16.
+16. Character
 
-17.
+17. False
 
