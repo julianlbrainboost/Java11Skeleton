@@ -1,38 +1,42 @@
 Assignment 5
 Name:
 
-1.
+1. system out, system error
 
-2.
+2. system out
 
-3.
+3. import java.util.scanner.
 
-4.
+4. java.util
 
-5.
-    5.1.
+5. 
+       I. Scanner scan = new Scanner( System. in );
 
-    5.2.
+      II. System.out.println("Enter the data:");
 
-    5.3.
+     III. inData = scan.nextLine();
 
-6.
+6. probably not, cause scan is already the identifier
 
-7.
+7. inData = scan.nextLine();
 
 8. This is in NameEcho.java
 
 9. This is in NameEchoAlt.java
 
-10.
+10. It runs pretty much the same
 
 11.
-    11.1.
+       I. 2116
 
-    11.2.
+      II. -1794967296
 
-    11.3.
+     III. Switch int for long
 
 12. This is in AddThree.java
 
-13. 
+13. thiis is in IntDivideTest
+
+    // 17 / 12 is 1
+    // 17 % 12 is 5
+    // 1 * 12 + 5 is 17
