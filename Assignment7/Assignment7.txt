@@ -4,28 +4,35 @@ Name:
 Chapter 13
 ==========
 
-1.
+1. Nothing, or at least not anything noticable.
 
-2.
+2. java.util.InputMismatchExpectation
+   at DoubleDouble.main(DoubleDouble.java:10)
 
-3.
+     (it didn't work)
 
-4.
+3. 7.3*(10^2)
+   2.3*(10^-2)
 
-5.
+4. 12.0
 
-6.
+5. a static is a member of a class except it doesn't need a class because it is a class???
 
-7.
+6. NaN
 
-8.
+7. N: not 
+   a: a
+   N: number
+
+8. Cause the double is calculated after the 1/9
 
 
 Chapter 16
 ==========
 
-1.
+1. {
+   }
 
-2.
+2. "=" is used when calculate for a int or double or whatever, "==" is not.
 
-3.
+3. "if" is used to show two different results based on what was entered 
